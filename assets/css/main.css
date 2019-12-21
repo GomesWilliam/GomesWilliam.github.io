@@ -95,8 +95,8 @@ input, select, textarea {
 }
 
 .modalDialog > div {
-	width: 50% ;
-	height: 70% ;
+	width: 45em;
+	height: 25em;
 	position: relative;
 	margin: 5% auto;
 	padding: 5px 20px 13px 21px;
